@@ -1694,5 +1694,7 @@ img{
     margin-top: 50px;
     margin-left: 0;
   }
-
+  .form-space{
+    padding-left: 15%;
+  }
 }
