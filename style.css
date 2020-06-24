@@ -385,12 +385,14 @@ HEADER
 
 .text-white{
   color: #fff;
+
 }
 
 .text-mint{
   color: #69C8A1;
   font-weight: bold;
 }
+
 /************************************
 SECTION
 ************************************/
@@ -1376,8 +1378,12 @@ h2, .heading-color{
   margin-top: 50px;
   margin-left: 30%;
 }
-
-
+h2.p-text{
+  padding-left:30%;
+}
+p.p-text-two{
+  padding-left: 30%;
+}
 /************************************
 PARALLAX
 ************************************/
@@ -1682,6 +1688,7 @@ img{
     font-size: 30px;
     padding-bottom: 15px;
     text-align: center;
+
   }
   .center-text-two{
     font-family: 'kaushan_scriptregular';
@@ -1694,7 +1701,7 @@ img{
   }
   .top-margin-two{
     margin-top: 5px;
-    margin-left: 0;
+
   }
   .form-space{
     padding-left: 15%;
@@ -1702,4 +1709,5 @@ img{
   .text-center{
     margin-left: -15%;
   }
+
 }
