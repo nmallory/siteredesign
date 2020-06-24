@@ -1709,5 +1709,10 @@ img{
   .text-center{
     margin-left: -15%;
   }
-
+  h2.p-text{
+    padding-left:0;
+  }
+  p.p-text-two{
+    padding-left: 0;
+  }
 }
