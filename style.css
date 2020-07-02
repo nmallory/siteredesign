@@ -394,6 +394,7 @@ HEADER
 }
 iframe{
   overflow: hidden;
+  border: 0;
 }
 /************************************
 SECTION
@@ -1563,6 +1564,7 @@ iframe{
 
 img{
   padding-top: 40px;
+
   }
   .text-padding{
     padding: 10px;
@@ -1593,6 +1595,11 @@ img{
   }
   .top-margin-two{
     margin-top: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
 
   }
   .form-space{
@@ -1600,6 +1607,7 @@ img{
   }
   .text-center{
     margin-left: -15%;
+
   }
   h2.p-text{
     padding-left:10%;
