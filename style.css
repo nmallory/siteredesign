@@ -392,7 +392,9 @@ HEADER
   color: #69C8A1;
   font-weight: bold;
 }
-
+iframe{
+  overflow: hidden;
+}
 /************************************
 SECTION
 ************************************/
@@ -1293,87 +1295,25 @@ My Styles
  color: #69C8A1;
  padding-top: 50px;
 }
-
 h2, .heading-color{
     color: #69C8A1;
 }
-
 .text-color{
     color: #fff;
 }
-
 .text-margin-left{
   /*padding-left: 5px;*/
   margin-left: 40px;
 }
-
 .top-bottom{
   padding-bottom: 60px;
 }
-
 .pull-left{
   margin: 4px 120px;
-}
-
-
-#scienceforsociopaths{
-  padding-top: 25px;
-  padding-bottom: 0;
-  margin: 0;
-}
-#coverscollabs{
-  padding-top: 25px;
-  padding-bottom: 0;
-  margin: 0;
-}
-
-#studiowork{
-  padding-top: 25px;
-  padding-bottom: 0;
-  margin: 0;
-}
-
-#coaching{
-  padding-top: 25px;
-  padding-bottom: 0;
-  margin: 0;
-}
-
-#live{
-  padding-top: 25px;
-  padding-bottom: 0;
-  margin: 0;
-}
-
-#events{
-  padding-top: 25px;
-  padding-bottom: 0;
-  margin: 0;
-}
-#contact{
-  padding-top: 80px;
-  padding-bottom: 0;
-  margin: 0;
-}
-#about-maggie-cocco-music{
-  background-image:url("images/big5.jpg");
-}
-#socialmedia-maggie-cocco-music{
-    background-image:url("images/big5.jpg");
-}
-#contact-maggie-cocco-music{
-  background-image:url("images/big5.jpg");
-}
-#coverscollabs-maggie-cocco-music{
-    background-image:url("images/big5.jpg");
-}
-#coaching-maggie-cocco-music{
-    background-image:url("images/big5.jpg");
 }
 .center-text-two{
   margin-top: 80px;
 }
-
 .top-margin-two{
   margin-top: 50px;
   margin-left: 30%;
@@ -1383,6 +1323,9 @@ h2.p-text{
 }
 p.p-text-two{
   padding-left: 30%;
+}
+.event-list{
+  margin-left: 30%;
 }
 /************************************
 PARALLAX
@@ -1540,57 +1483,6 @@ iframe{
 
 
 
-    #about{
-      padding-top: 20%;
-      padding-bottom: 0;
-      margin: 0;
-    }
-
-
-    #scienceforsociopaths{
-      padding-top: 15px;
-      padding-bottom: 0;
-      margin: 0;
-    }
-
-    #coverscollabs{
-      padding-top: 15px;
-      padding-bottom: 0;
-      margin: 0;
-    }
-
-    #studiowork{
-      padding-top: 80px;
-      margin: 0;
-    }
-
-    #live{
-      padding-top: 0px;
-      margin: 0;
-    }
-
-    #coaching{
-      padding-top: 50px;
-      padding-bottom: 0;
-      margin: 0;
-    }
-
-    #live{
-      padding-top: 25px;
-      padding-bottom: 0;
-      margin: 0;
-    }
-
-    #events{
-      padding-top: 25px;
-      padding-bottom: 0;
-      margin: 0;
-    }
-
-    #contact{
-      padding-top: 75px;
-      margin: 0;
-    }
 
   .button {
       width: 50%;
@@ -1714,5 +1606,8 @@ img{
   }
   p.p-text-two{
     padding-left: 10%;
+  }
+  .event-list{
+    margin-left: 0;
   }
 }
