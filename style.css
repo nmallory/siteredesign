@@ -1328,6 +1328,21 @@ p.p-text-two{
 .event-list{
   margin-left: 30%;
 }
+
+.text-center-three{
+  margin-top: 5%;
+  text-align: center;
+}
+#back-link{
+  padding-left: 45%;
+}
+
+/************************************
+CALENDAR
+************************************/
+
+
+
 /************************************
 PARALLAX
 ************************************/
@@ -1617,5 +1632,8 @@ img{
   }
   .event-list{
     margin-left: 0;
+  }
+  #back-link{
+    padding-left: 35%;
   }
 }
