@@ -1342,6 +1342,12 @@ p.p-text-two{
 .padding-live-right{
   padding-left: 30%;
 }
+img.resize {
+  max-width:35%;
+  height:auto;
+  padding-left: 10%;
+  padding-top: 0;
+}
 /************************************
 CALENDAR
 ************************************/
@@ -1669,5 +1675,10 @@ img{
   #patreon-maggie-cocco-music{
     padding-top: 10%;
   }
-
+  img.resize {
+    max-width:60%;
+    height:auto;
+    padding-left: 10%;
+    margin-top: 7%;
+  }
 }
