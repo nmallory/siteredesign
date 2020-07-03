@@ -1473,7 +1473,12 @@ h2, .heading-color{
   margin: 30px;
 }
 
-
+img.resize {
+  max-width:35%;
+  height:auto;
+  padding-left: 10%;
+  padding-top: 0;
+}
 /************************************
 PARALLAX
 ************************************/
@@ -1645,5 +1650,11 @@ RESPONSIVE
     iframe{
       width: 100%;
       padding: 20px;
+    }
+    img.resize {
+      max-width:60%;
+      height:auto;
+      padding-left: 10%;
+      margin-top: 7%;
     }
 }
