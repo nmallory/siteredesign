@@ -1598,12 +1598,13 @@ img{
     margin-left: 0px;
   }
   .center-text{
+
     font-family: 'kaushan_scriptregular';
     font-size: 30px;
     padding-bottom: 15px;
     text-align: center;
-
   }
+
   .center-text-two{
     font-family: 'kaushan_scriptregular';
     font-size: 28px;
@@ -1618,10 +1619,10 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
-
-
-
   }
+
+
+
   .form-space{
     padding-left: 15%;
   }
@@ -1643,8 +1644,29 @@ img{
   }
   #studiowork-maggie-cocco-music{
      overflow: hidden;
+     padding-top: 10%;
   }
   .padding-live{
     padding-left: 30%;
+  }
+
+  #live-maggie-cocco-music{
+    padding-top: 10%;
+  }
+
+  #coaching-maggie-cocco-music{
+    padding-top: 10%;
+  }
+  #coverscollabs-maggie-cocco-music{
+    padding-top: 10%;
+  }
+  #scienceforsociopaths-maggie-cocco-music{
+    padding-top: 10%;
+  }
+  #events-maggie-cocco-music{
+    padding-top: 10%;
+  }
+  #patreon-maggie-cocco-music{
+    padding-top: 10%;
   }
 }
