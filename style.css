@@ -625,6 +625,7 @@ img {
     font-family: 'kaushan_scriptregular';
     line-height: 1;
     margin: 0;
+    padding-bottom: 10px;
 }
 
 .customtitle h2 i {
@@ -1131,6 +1132,7 @@ hr.invis {
 .btn-lg {
     padding: 15px 42px;
     font-size: 16px;
+
 }
 
 .btn-primary {
@@ -1281,6 +1283,8 @@ My Styles
     font-size: 18px;
     font-family: cursive;
     color: #fff;
+    padding-top: 3px;
+
 }
 
 .fancy-heading{
@@ -1298,6 +1302,7 @@ My Styles
 }
 h2, .heading-color{
     color: #69C8A1;
+
 }
 .text-color{
     color: #fff;
@@ -1348,6 +1353,8 @@ img.resize {
   padding-left: 10%;
   padding-top: 0;
 }
+
+
 /************************************
 CALENDAR
 ************************************/
