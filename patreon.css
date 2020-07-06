@@ -1467,10 +1467,12 @@ h2, .heading-color{
 
 .text-padding{
   margin: 30px;
+  padding-left: 80px;
 }
 
 .fancy-heading{
   margin: 30px;
+  padding-left: 80px;
 }
 
 img.resize {
@@ -1479,6 +1481,10 @@ img.resize {
   padding-left: 10%;
   padding-top: 0;
 }
+iframe{
+  margin: 80px;
+}
+
 /************************************
 PARALLAX
 ************************************/
