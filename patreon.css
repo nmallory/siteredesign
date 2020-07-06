@@ -1654,13 +1654,22 @@ RESPONSIVE
       padding-top: 0px;
     }
     iframe{
-      width: 100%;
-      padding: 20px;
+      
+      padding: 0;
     }
     img.resize {
       max-width:60%;
       height:auto;
       padding-left: 5%;
       margin-top:1%;
+    }
+    #about-maggie-cocco-music{
+      overflow: hidden;
+    }
+    .fancy-heading{
+      padding-left: 0;
+    }
+    .text-padding{
+      padding-left: 0;
     }
 }
