@@ -1468,11 +1468,13 @@ h2, .heading-color{
 .text-padding{
   margin: 30px;
   padding-left: 80px;
+  padding-right: 80px;
 }
 
 .fancy-heading{
   margin: 30px;
   padding-left: 80px;
+
 }
 
 img.resize {
@@ -1654,9 +1656,11 @@ RESPONSIVE
       padding-top: 0px;
     }
     iframe{
-      
+
       padding: 0;
     }
+
+
     img.resize {
       max-width:60%;
       height:auto;
@@ -1671,5 +1675,11 @@ RESPONSIVE
     }
     .text-padding{
       padding-left: 0;
+      padding-right: 0;
+    }
+    .centering{
+      padding-right: 80px;
+      border: none;
+    }
     }
 }
