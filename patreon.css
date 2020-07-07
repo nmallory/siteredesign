@@ -1679,9 +1679,10 @@ RESPONSIVE
       padding-right: 0;
     }
     .centering{
-      padding-right: 100px;
+      
+      width: 100%;
       border: none;
 
     }
-=
+
 }
