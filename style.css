@@ -1689,6 +1689,8 @@ img{
     margin-top: 7%;
   }
 
-
+iframe{
+  width: 100%;
+}
 
 }
