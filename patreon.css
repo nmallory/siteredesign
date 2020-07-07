@@ -1467,7 +1467,8 @@ h2, .heading-color{
 
 .text-padding{
   margin: 30px;
-  
+  padding-left: 80px;
+  padding-right: 80px;
 }
 
 .fancy-heading{
