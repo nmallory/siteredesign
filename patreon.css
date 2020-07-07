@@ -1680,9 +1680,14 @@ RESPONSIVE
     }
     .centering{
       padding-right: 100px;
-    
+
       border: none;
 
+    }
+
+    .column{
+      width: 100%;
+      height: auto;
     }
 
 }
