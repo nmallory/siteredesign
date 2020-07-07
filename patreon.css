@@ -1485,6 +1485,7 @@ img.resize {
 }
 iframe{
   margin: 80px;
+  border: 0;
 }
 
 /************************************
@@ -1656,7 +1657,7 @@ RESPONSIVE
       padding-top: 0px;
     }
     iframe{
-
+      border: 0;
       padding: 0;
     }
 
@@ -1678,8 +1679,12 @@ RESPONSIVE
       padding-right: 0;
     }
     .centering{
-      padding-right: 80px;
+      padding-right: 100px;
+
+
       border: none;
-    }
+
+
+
     }
 }
