@@ -1679,8 +1679,8 @@ RESPONSIVE
       padding-right: 0;
     }
     .centering{
-      
-      width: 100%;
+      padding-right: 100px;
+    
       border: none;
 
     }
