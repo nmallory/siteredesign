@@ -428,11 +428,14 @@ HEADER
 
 }
 
+
+
+
 .home-video iframe {
     width: 100%;
 
-}
 
+}
 /************************************
 SECTION
 ************************************/
@@ -1526,6 +1529,7 @@ PARALLAX
     transition: all .4s ease-in-out;
 }
 
+
 /************************************
 RESPONSIVE
 ************************************/
@@ -1679,9 +1683,10 @@ RESPONSIVE
       padding-right: 0;
     }
     .centering{
-      padding-right: 100px;
-
+      padding-left: 100px;
       border: none;
+      margin: -80px;
+      margin-bottom: 10px;
 
     }
 
