@@ -1301,8 +1301,7 @@ My Styles
  padding-top: 50px;
 }
 h2, .heading-color{
-    color: #69C8A1;
-
+  color: #69C8A1;
 }
 .text-color{
     color: #fff;
@@ -1353,7 +1352,9 @@ img.resize {
   padding-left: 10%;
   padding-top: 0;
 }
-
+.highlight{
+  color: #69C8A1;
+}
 
 /************************************
 CALENDAR
