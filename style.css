@@ -1679,6 +1679,7 @@ img{
   }
   #events-maggie-cocco-music{
     padding-top: 10%;
+    overflow-x:hidden;
   }
   #patreon-maggie-cocco-music{
     padding-top: 10%;
