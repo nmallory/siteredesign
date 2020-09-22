@@ -308,7 +308,7 @@ HEADER
     display: block;
     margin: auto;
     width: 100%;
-    padding: 40px 0 0;
+    padding: 10px 0 0;
 }
 .normal-header {
     padding:20px 0 40px;
@@ -1477,7 +1477,6 @@ h2, .heading-color{
 .fancy-heading{
   margin: 30px;
   padding-left: 80px;
-
 }
 
 img.resize {
@@ -1695,7 +1694,10 @@ RESPONSIVE
       margin-bottom: 10px;
 
     }
-
+    .index-image-overlay{
+      background-color: #000000;
+      opacity: 0.9;
+    }
 
 
 }
