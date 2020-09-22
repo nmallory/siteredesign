@@ -1691,8 +1691,9 @@ img{
     margin-top: 7%;
   }
   .responsive-center{
-    padding-left: 40%;
-    padding-right: 40%;
+    padding-left: 8%;
+    height: auto;
+    max-width:80%;
   }
   h2{
     font-size: 24px;
