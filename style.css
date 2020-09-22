@@ -1693,10 +1693,11 @@ img{
   .responsive-center{
    
     height: auto;
-    max-width:90%;
+    max-width:100%;
   }
   h2{
     font-size: 24px;
+    text-align: center;
   }
 
 
